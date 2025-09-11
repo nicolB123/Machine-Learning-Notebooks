@@ -1,2 +1,2 @@
 # Machine-Learning-Notebooks
-Übungen zu der Veranstaltung Machine-Learning. 11 
+Übungen zu der Veranstaltung Machine-Learning
